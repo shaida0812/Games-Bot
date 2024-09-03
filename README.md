@@ -60,7 +60,7 @@ pip install tensorflow numpy scipy scikit-learn pillow pynput
 
    ```sh
 
-   python get_dataset.py
+   python3 get_dataset.py
 
    ```
 
@@ -72,7 +72,7 @@ pip install tensorflow numpy scipy scikit-learn pillow pynput
 
    ```sh
 
-   python train_model.py
+   python3 train_model.py
 
    ```
 
